@@ -1,6 +1,6 @@
 # GorillaPatcher
 
-by with ❤️ by Skire
+Made by Skire
 join  on discord to recommend features or for help
 
 SUPPORTED VERSION: v1.1.99 / 13458
@@ -13,3 +13,4 @@ Flooded map
 Speedboost/Jumpboost
 (CS) Cosmetic Stealer
 
+Download in the other zip
