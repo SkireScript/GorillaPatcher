@@ -13,5 +13,6 @@ Current Features:
   Speedboost/Jumpboost
   (CS) Cosmetic Stealer
 
-![image](https://github.com/user-attachments/assets/dfdaece1-c041-4933-be02-f98a6e2d7002)
+![image](https://github.com/user-attachments/assets/8d890c7d-30c2-484d-a941-d32b8a88b7b6)
+
 
