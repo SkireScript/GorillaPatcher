@@ -11,8 +11,7 @@ Current Features:
   Tag radius
   Flooded map
   Speedboost/Jumpboost
-  (CS) Cosmetic Stealer
 
 ![image](https://github.com/user-attachments/assets/8d890c7d-30c2-484d-a941-d32b8a88b7b6)
 
-THIS WAS ORIGNALLY MADE BY X6 BUT I HAVE IMPROVED THIS JUST GIVING CREDS TO X6
+This was also orginally made by x6 so do not say i skidded this or sm this was actually made by x6 but improved it to support more unity/gtag copys
